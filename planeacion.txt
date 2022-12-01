@@ -1,0 +1,51 @@
+tareas
+
+juan 
+
+propuso la idea de tener practicas en conocimiento
+
+leider
+
+sol
+
+busco las card 
+
+
+------------------------
+VISTA PRINCIPAL
+
+
+
+GUIA DE CONOCIMIENTOS -- tema bd VIDEOJUEGOS, col CONSOLAS, doc and fields id-nombre-creador.
+
+--
+
+leider
+card bonitas: mostrara los metodos basicos de mongo (crear bd, colecciones y eliminar bd y colecciones) ---- 4 cards
+
+sol
+card poke: consultas mas especificas (insert(1), consultar(general, ord, por id), actu(id) y eliminar(id)) --- 6 cards
+
+
+--
+
+-- formulario 8 pre
+
+juan
+
+input bonitas: crear bd y coleccion 
+select bonitas: eliminar bd y coleccion
+input poke: insert, actualizar 
+select poke: consultar y el eliminar
+--
+boton de validar las respuestas
+
+------
+
+boton de abrir consola
+
+
+
+
+
+
