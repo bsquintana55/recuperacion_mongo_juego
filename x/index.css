@@ -1,0 +1,128 @@
+.fondo {
+  
+   
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(./img/back_mongo_.png);
+    width: 50%;
+}
+
+
+
+
+
+  
+.button {
+    width: 177px;
+    height: 57px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 2.5px;
+    font-weight: 500;
+    color: rgb(250, 250, 250);
+    background-color: rgb(40, 150, 89);
+    border: none;
+    border-radius: 45px;
+    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease 0s;
+    cursor: pointer;
+    outline: none;
+    }
+  
+  .button:hover {
+    background-color: #ffffff;
+    box-shadow: 0px 15px 20px rgba(46, 229, 144, 0.4);
+    color: rgb(5, 0, 0);
+    transform: translateY(-7px);
+  }
+
+
+.titulo {
+    text-align: center;
+    color: rgb(44, 199, 91);
+    margin-top: 6rem;
+    font-family: 'Merriweather', serif;
+
+}
+
+@media (min-width: 100px) and (max-width: 480px) {
+    
+    .fondo {
+  
+        background-attachment: fixed;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-image: url(./img/back_mongo_e.png);
+    }
+   
+    .titulo {
+        text-align: center;
+        color: rgb(44, 199, 91);
+        margin-top: 12rem;
+        font-family: 'Merriweather', serif;
+
+    }
+
+  
+}
+
+@media (min-width: 481px) and (max-width: 500px) {
+
+   
+  
+    
+    .titulo {
+        text-align: center;
+        color: rgb(44, 199, 91);
+        margin-top: 10rem;
+        font-family: 'Merriweather', serif;
+
+    }
+
+  
+   
+}
+
+@media (min-width: 501px) and (max-width: 730px) {
+   
+   
+  
+    .titulo {
+        text-align: center;
+        color: rgb(44, 199, 91);
+        margin-top: 9rem;
+        font-family: 'Merriweather', serif;
+
+    }
+   
+    
+}
+
+@media (min-width:728) and (max-width: 924px){
+  
+
+    .titulo {
+        text-align: center;
+        color: rgb(44, 199, 91);
+        margin-top: 11rem;
+        font-family: 'Merriweather', serif;
+
+    }
+    
+
+}
+
+@media (min-width: 924px)and(max-width: 1024px) {
+  
+
+    .titulo {
+        text-align: center;
+        color: rgb(44, 199, 91);
+        margin-top: 5rem;
+        font-family: 'Merriweather', serif;
+
+    }
+
+    
+}
